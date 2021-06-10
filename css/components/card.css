@@ -15,6 +15,7 @@
 	border-radius: 4px;
 	flex-basis: 170px;
 	flex-grow: 1;
+	color: #140C40;
 }
 
 .card:hover{
